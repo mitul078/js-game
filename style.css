@@ -34,7 +34,6 @@ body {
     height: 100%;
     background-color: red;
     border: none;
-    box-shadow: 4px 5px 10px crimson;
     cursor: pointer;
 }
 
